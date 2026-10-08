@@ -1,0 +1,11 @@
+node_modules
+.next
+.env
+*.db
+*.db-journal
+uploads/*
+!uploads/.gitkeep
+src/generated
+next-env.d.ts
+tsconfig.tsbuildinfo
+.DS_Store
